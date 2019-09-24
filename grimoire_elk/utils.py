@@ -223,6 +223,7 @@ def get_connectors():
             "jenkins": [Jenkins, JenkinsOcean, JenkinsEnrich, JenkinsCommand],
             "jira": [Jira, JiraOcean, JiraEnrich, JiraCommand],
             "kitsune": [Kitsune, KitsuneOcean, KitsuneEnrich, KitsuneCommand],
+            "liferay": [Liferay, LiferayOcean, LiferayEnrich, LiferayCommand],
             "mattermost": [Mattermost, MattermostOcean, MattermostEnrich, MattermostCommand],
             "mbox": [MBox, MBoxOcean, MBoxEnrich, MBoxCommand],
             "mediawiki": [MediaWiki, MediaWikiOcean, MediaWikiEnrich, MediaWikiCommand],
